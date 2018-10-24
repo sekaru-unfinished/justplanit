@@ -1,0 +1,116 @@
+{
+  "title": "Europe Graduation Trip 2018!",
+  "ready": true,
+  "places": [
+    {
+      "start": "St Pancras",
+      "finish": "Paris Gare du Nord",
+      "type": "train",
+      "start_time": "23rd July 16:00",
+      "finish_time": "19:17",
+      "address": "Euston Rd, Kings Cross, London N1C 4QP",
+      "header": "http://1.bp.blogspot.com/-rlw2Ln_yD9s/VlRJi4TzeqI/AAAAAAAHRYc/oc1Sco7h_4s/s1600/DSC01804-726722.JPG"
+    },
+    {
+      "start": "Paris",
+      "type": "airbnb",
+      "start_time": "23rd July 15:00",
+      "finish_time": "27th July 12:00",
+      "address": "13 Rue Arthur Rozier, Paris, île-de-France 75019",
+      "header": "https://a.travel-assets.com/findyours-php/viewfinder/images/res60/84000/84621-Paris.jpg",
+      "activities": [
+        "Eiffel Tower", "Louvre", "Arc de Triomph"
+      ],
+      "fooddrink": [
+        "Eiffel Tower Restaurant, of course"
+      ],
+      "host": "Ronan",
+      "host_phone": "+33 6 20 80 05 13"
+    },
+    {
+      "start": "Paris Gare du Nord",
+      "finish": "Brussels Midi",
+      "type": "train",
+      "start_time": "27th July 10:25",
+      "finish_time": "11:47",
+      "address": "18 Rue de Dunkerque, 75010 Paris, France",      
+      "header": "https://www.yoshke.com/wp-content/uploads/La-Gare-du-Nord.jpg"
+    },
+    {
+      "start": "Brussels (Saint-Gilles)",
+      "type": "airbnb",
+      "start_time": "27th July Flexible",
+      "finish_time": "31st July 12:00",
+      "address": "Rue du Céleri 31, Saint-Gilles, Bruxelles 1060",
+      "header": "https://www.aimgroupinternational.com/upload/_1600x900/brussels-cover.jpg",
+      "host": "Haleh",
+      "host_phone": "+32 470 82 28 86"
+    },
+    {
+      "start": "Brussels Midi",
+      "finish": "Antwerp",
+      "type": "train",
+      "start_time": "31st July 13:57",
+      "finish_time": "14:52",
+      "address": "Avenue Fonsny 47B, 1060 Brussel, Belgium",
+      "header": "https://4.bp.blogspot.com/-TwWFFvO_GGc/VgT90XityaI/AAAAAAAALyQ/slp-DhEC_-c/s1600/20150716_185757-01.jpeg"
+    },
+    {
+      "start": "Antwerp",
+      "type": "airbnb",
+      "start_time": "31st July After 15:00",
+      "finish_time": "2nd August 12:00",
+      "address": "Schoytestraat 2, Antwerpen, Vlaanderen 2000",
+      "header": "https://a.travel-assets.com/findyours-php/viewfinder/images/res60/49000/49971-Antwerp-Market-Square-Grote-Markt.jpg",
+      "host": "Kris",
+      "host_phone": "+32 494 63 71 14"
+    },
+    {
+      "start": "Antwerp",
+      "finish": "The Hague",
+      "type": "bus",
+      "start_time": "2nd August 12.50",
+      "finish_time": "15:20",
+      "address": "2018 Antwerp, Belgium",      
+      "header": "https://a.travel-assets.com/findyours-php/viewfinder/images/res60/63000/63342-Central-Station.jpg"
+    },
+    {
+      "start": "The Hague",
+      "type": "airbnb",
+      "start_time": "2nd August Flexible",
+      "finish_time": "4th August 12.00",
+      "address": "186U Columbusstraat, Den Haag, ZH 2561 AT",
+      "header": "https://a.travel-assets.com/findyours-php/viewfinder/images/res60/46000/46968-The-Hague.jpg",
+      "host": "Timothy",
+      "host_phone": "+31 6 39 76 87 92"
+    },
+    {
+      "start": "Den Haag Centraal",
+      "finish": "Amsterdam Centraal",
+      "type": "train",
+      "start_time": "4th August 12.18",
+      "finish_time": "13:10",
+      "address": "2595 aa den, Kon. Julianaplein 10, 2595 AA Den Haag, Netherlands",
+      "header": "https://3.bp.blogspot.com/-g4Kq0x_WfUs/WNCof-V6HuI/AAAAAAAAU1s/avDFVd1hniUMytFheHQGmAdCJyPGEVr8ACLcB/s1600/t201612-0041.jpg"
+    },
+    {
+      "start": "Amsterdam",
+      "type": "airbnb",
+      "start_time": "4th August Flexible",
+      "finish_time": "7th August 11:00",
+      "address": "Alpert van Metzhof, Number 5, Amsterdam, North Holland 1065 AP",
+      "header": "https://www.tours-tickets.com/media/312630/001_bg_canal_cruises_tt_1hcruise.jpg",      
+      "host": "Mathilde",
+      "host_phone": "+31 6 38 32 62 42"
+    },
+    {
+      "start": "Amsterdam Schiphol Airport",
+      "finish": "Luton",
+      "type": "plane",
+      "start_time": "7th August 15:25",
+      "finish_time": "15:35",
+      "address": "Evert van de Beekstraat 202, 1118 CP Schiphol",
+      "header": "https://cdn-images-1.medium.com/max/1600/1*VX7iRD9y2o4ywHbEVVGQLw.jpeg"
+    }
+  ]
+}

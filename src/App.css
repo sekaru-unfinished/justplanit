@@ -1,0 +1,67 @@
+body {
+  background-color: #222;
+}
+
+h2 {
+  font-size: 1.5rem;  
+}
+
+h3 {
+  font-size: 1.25rem;    
+  margin-bottom: -0.75em;
+  text-transform: uppercase;
+}
+
+.App-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 200px;
+  padding: 30px;
+  color: white;
+}
+
+.App-header img {
+  border-radius: 50%;
+  border: 3px solid white;
+  width: 150px;
+}
+
+.header {
+  width: 100%;
+  height: 100%;
+  
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;   
+}
+
+.box {
+  color: white;
+  text-align: center;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.smaller {
+  font-size: 0.75em;
+  color: orange;  
+}
+
+.typeIcon {
+  width: 28px;
+  margin: 0 8px;
+  margin-bottom: -6px;
+}
+
+@media only screen and (max-width: 800px) {
+  .activities {
+    display: none;
+  }
+
+  .fooddrink {
+    display: none;
+  }
+}
